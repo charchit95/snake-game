@@ -1,0 +1,6 @@
+.scaled {
+    transform:scale(2) translate(0px, 40px);
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+}
+  
